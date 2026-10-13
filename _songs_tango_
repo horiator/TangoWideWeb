@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "project": "Digital Tango Encyclopedia",
+    "source_inspiration": "Encyclopedia of Tango - Gabriel Valiente",
+    "version": "1.0"
+  },
+  "orchestras": [
+    {
+      "id": "anibal_troilo",
+      "orchestra_name": "Aníbal Troilo y su Orquesta Típica",
+      "director": "Aníbal Troilo",
+      "director_instrument": "Bandoneon",
+      "active_period": "1937–1975",
+      "musical_style": "Melodic, dramatic, profound",
+      "recordings": [
+        {
+          "song_id": "troilo_barrio_de_tango_1942",
+          "title": "Barrio de tango",
+          "recording_date": "1942-04-16",
+          "genre": "Tango",
+          "composer": "Aníbal Troilo",
+          "lyricist": "Homero Manzi",
+          "vocalist": "Francisco Fiorentino",
+          "record_label": "RCA Victor",
+          "matrix_number": "72435"
+        },
+        {
+          "song_id": "troilo_que_jasmin_1943",
+          "title": "Qué jasmin!",
+          "recording_date": "1943-08-30",
+          "genre": "Milonga",
+          "composer": "Aníbal Troilo",
+          "lyricist": "Homero Manzi",
+          "vocalist": "Floreal Ruiz",
+          "record_label": "RCA Victor",
+          "matrix_number": "74120"
+        }
+      ]
+    },
+    {
+      "id": "juan_darienzo",
+      "orchestra_name": "Juan D'Arienzo y su Orquesta Típica",
+      "director": "Juan D'Arienzo",
+      "director_instrument": "Violin / Piano (Conductor)",
+      "active_period": "1928–1976",
+      "musical_style": "Rhythmic, energetic, staccato, ideal for dancing",
+      "recordings": [
+        {
+          "song_id": "darienzo_la_cumparsita_1937",
+          "title": "La Cumparsita",
+          "recording_date": "1937-12-14",
+          "genre": "Tango",
+          "composer": "Gerardo Matos Rodríguez",
+          "lyricist": "Instrumental",
+          "vocalist": "None (Instrumental)",
+          "record_label": "RCA Victor",
+          "matrix_number": "39812"
+        },
+        {
+          "song_id": "darienzo_pensalo_bien_1938",
+          "title": "Pensalo bien",
+          "recording_date": "1938-06-22",
+          "genre": "Tango",
+          "composer": "Juan José Visciglio",
+          "lyricist": "Numa Córdoba",
+          "vocalist": "Alberto Echagüe",
+          "record_label": "RCA Victor",
+          "matrix_number": "42105"
+        }
+      ]
+    }
+  ]
+}
